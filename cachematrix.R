@@ -1,6 +1,8 @@
 ## this file contains funtions to allow the caching 
 ## of inverase matrix functions
 
+## Attributution to RDPANG as per fork.
+
 ## This function creates a cache of a matrix to improve speed.
 
 makeCacheMatrix <- function(x = matrix()) {
